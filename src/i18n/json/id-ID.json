@@ -6,7 +6,7 @@
   "Language": "Bahasa",
   "Mounting": "Menempel",
   "Updating": "Memperbarui",
-  "Unmounting": "Mencopot",
+  "Unmounting": "Melepas",
   "“{name} phase”": "“Tahap {name}”",
   "Pure and has no side effects. May be paused, aborted or restarted by React.": "Murni dan tidak memiliki efek samping. Dapat dijeda, dibatalkan atau dimulai kembali oleh React.",
   "Can read the DOM.": "Dapat membaca DOM",
